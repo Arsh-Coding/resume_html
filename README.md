@@ -45,15 +45,7 @@ If you are using VS Code, use the **Live Server** extension to view changes in r
 
 ---
 
-## 🔍 Evaluation Guide
+<img width="1901" height="1009" alt="image" src="https://github.com/user-attachments/assets/8f71d961-3bdc-4740-b7fa-a488cc4150b8" />
 
-When evaluating this project, please consider the following:
 
-1. **Semantic Structure**: Check the source code for the use of proper HTML5 elements.
-2. **Table Implementation**: Notice the clean use of `<table>` for the Experience and Education sections.
-3. **Styling Consistency**: The CSS uses a consistent font family and border styles for a unified look.
-4. **Content Organization**: Data is clearly categorized, making it easy for recruiters/evaluators to find information.
-5. **Accessibility**: The use of list tags and headers ensures the page is navigable by screen readers.
-
----
 *Copyright © 2024 Arshpreet Singh. All rights reserved.*
